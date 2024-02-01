@@ -1,0 +1,3 @@
+using apis have nothing to do with react but have to do with javascript,
+to fetch them we have to use libraries such as axios,
+for example npm install axios => to download axios 
